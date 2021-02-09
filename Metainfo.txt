@@ -1,0 +1,9 @@
+Name of Quantlet: Pink_Noise
+
+Published in: Quantlet
+
+Description: ‘Spectral Analysis´
+
+Keywords: Pink Noise, ACF, PACF 
+
+Author: Maria Culjak 
